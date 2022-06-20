@@ -1,1 +1,1 @@
-# React Frontend boilerplate
+# React Frontend template
